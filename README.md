@@ -1,7 +1,7 @@
 # arctic_ocean_climate2018
-The gridded climatology is hosted on a g*gle drive that I rarely use. 
+The gridded climatology has been hosted on a g*gle drive that I rarely use/check. 
 
-I'm moving the original here as an alternative location for it.
+I'm moving it here as an alternative location for it.
 
 References:
 
